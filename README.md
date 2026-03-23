@@ -17,9 +17,9 @@
 
 ### 🔹 Note App
 
-* Simple and efficient note-taking application
+* Simple and efficient note-taking web-app
 * Focused on usability and clean design
-* (Add link here)
+* (https://github.com/vaxmerstappen1/Note-App)
 
 ### 🔹 Discord Bot
 
