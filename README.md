@@ -29,4 +29,4 @@
 
 ## 📫 Contact
 
-* Email: alfiecrehanwaller@gmail.com(mailto:alfiecrehanwaller@gmail.com)
+* Email: alfiecrehanwaller@gmail.com
