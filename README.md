@@ -19,7 +19,7 @@
 
 * Simple and efficient note-taking web-app
 * Focused on usability and clean design
-* (https://github.com/vaxmerstappen1/Note-App)
+* (https://github.com/alfiecw/Note-App)
 
 ### 🔹 Discord Bot
 
