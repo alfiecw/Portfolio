@@ -24,8 +24,7 @@
 ### 🔹 Discord Bot
 
 * Custom bot with useful automation features
-* Built using Python/JavaScript
-* (Add link here)
+* Built using JavaScript (Node.js)
 
 
 ## 📫 Contact
